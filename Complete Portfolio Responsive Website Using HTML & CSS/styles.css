@@ -56,7 +56,7 @@ body{
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  color: var(--second-color);
+  color: red;
 }
 h1,h2,p{
   margin: 0;
@@ -295,10 +295,10 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 10%;
+  width: 60%;
 }
 .skills__ux{
-  width: 75%;
+  width: 85%;
 }
 .skills__img{
   border-radius: .5rem;
